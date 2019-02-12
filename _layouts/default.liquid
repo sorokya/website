@@ -3,11 +3,39 @@
     <head>
         <meta charset="utf-8">
         <title>{{ page.title }}</title>
+        <style>
+            #menu {
+                margin:0;
+                padding:5px 0;
+                list-style: none;
+            }
+
+            #menu li {
+                display:inline-block;
+                margin: 0 5px;
+            }
+
+            #menu li a {
+                color: black;
+            }
+        </style>
     </head>
     <body>
     <div>
+      <h1>Richard Leek</h1>
+      <ul id="menu">
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="/projects.html">Projects</a></li>
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/contact.html">Contact</a></li>
+      </ul>
       <h2>{{ page.title }}</h2>
       {{ page.content }}
+      <br />
+      <br />
+      <footer>
+          Powered by <a href="https://cobalt-org.github.io/">cobalt.rs</a>
+      </footer>
     </div>
   </body>
 </html>

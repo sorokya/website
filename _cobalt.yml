@@ -1,7 +1,7 @@
 
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
-  base_url: http://example.com
+  title: sorokya.us 
+  description: Richard Leek's personal website
+  base_url: https://sorokya.us
 posts:
   rss: rss.xml

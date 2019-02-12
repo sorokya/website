@@ -1,10 +1,11 @@
 ---
 layout: default.liquid
+title: Home
 ---
-## Blog!
 
 {% for post in collections.posts.pages %}
 #### {{post.title}}
+{{post.excerpt}}
 
-[{{ post.title }}]({{ post.permalink }})
+[Read more!]({{post.permalink}})
 {% endfor %}
