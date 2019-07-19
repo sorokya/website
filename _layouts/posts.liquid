@@ -5,7 +5,9 @@
     </head>
     <body>
       {% include "header.liquid" %}
-      <div class="content">
+      <div class="content post">
+        <h2 class="title">{{page.title}}</h2>
+        {% include "post_date.liquid" %}
         {{ page.content }}
       </div>
       {% include "footer.liquid" %}

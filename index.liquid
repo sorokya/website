@@ -1,0 +1,12 @@
+---
+layout: default.liquid
+title: Home
+---
+
+{% for post in collections.posts.pages %}
+<h3><a href="{{post.permalink}}">{{post.title}}</a></h3>
+<p>{{post.excerpt}}</p>
+
+<a class="btn" href="{{post.permalink}}">Continue Reading</a>
+<hr />
+{% endfor %}

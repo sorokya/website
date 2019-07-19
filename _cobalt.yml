@@ -1,7 +1,7 @@
 
 site:
-  title: sorokya.us 
+  title: richardleek.com
   description: Richard Leek's personal website
-  base_url: https://sorokya.us
+  base_url: https://richardleek.com
 posts:
   rss: rss.xml

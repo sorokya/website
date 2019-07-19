@@ -1,0 +1,5 @@
+{% if page contains "published_date" %}
+    <span class="date">
+        {{ page.published_date | date:"%Y" }}-{{page.published_date | date:"%m" }}-{{ page.published_date | date:"%d" }}
+    </span>
+{% endif %}
