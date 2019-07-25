@@ -11,7 +11,7 @@ I'm just a tech loving nerd. I've been working as a programmer making cloud base
 * WM: i3-gaps  
 * Bar: polybar
 * Launcher: rofi  
-* Browser: Firefox with [addons](firefoxaddons.html) 
+* Browser: Firefox with [addons](firefoxaddons.html) and [hardened settings](https://www.privacytools.io/browsers/#about_config)
 * Terminal: Alacritty 
 * Editor: Vim 
 * Media Player: VLC/Plex 
