@@ -1,6 +1,8 @@
 ---
 title: firefoxaddons
 layout: default.liquid
+data:
+    keywords: Mozilla,Firefox,Addons,Add-ons,Add-on,Privacy
 ---
 
 ## Firefox Addons

@@ -2,6 +2,8 @@
 title: Switching to aerc
 layout: posts.liquid
 is_draft: false
+data:
+    keywords: email,aerc,calcurse,thunderbird,minimal,terminal,tui,linux
 ---
 
 Today I started using "The world's best email client" [aerc](https://aerc-mail.org/).

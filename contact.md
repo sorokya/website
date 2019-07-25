@@ -1,6 +1,8 @@
 ---
 layout: default.liquid
 title: Contact
+data:
+    keywords: Contact,Richard,Leek,Richard Leek,Email,PGP
 ---
 
 ### Email

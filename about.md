@@ -1,6 +1,8 @@
 ---
 layout: default.liquid
 title: About
+data:
+    keywords: Richard Leek,Richard,Leek,Linux,i3,Zelda,Firefox
 ---
 
 ### About Me
