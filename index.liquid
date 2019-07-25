@@ -3,7 +3,7 @@ layout: default.liquid
 title: Home
 ---
 
-{% for post in collections.posts.pages %}
+{% for post in collections.posts.pages reversed %}
 <h3><a href="{{post.permalink}}">{{post.title}}</a></h3>
 <p>{{post.excerpt}}</p>
 
