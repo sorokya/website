@@ -2,6 +2,8 @@
 title: There is a gap in my digital life
 layout: posts.liquid
 is_draft: true
+data:
+    keywords: blah
 ---
 
 I got my first personal computer in the mid 2000s. It was a Christmas gift from my grandparents. One of those old Dell towers that came preinstalled with Windows XP. Of course this wasn't my first time using a PC, but this PC was mine.

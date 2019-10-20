@@ -2,6 +2,8 @@
 title: Kingdom Hearts III
 layout: posts.liquid
 is_draft: true
+data:
+    keywords: blah
 ---
 In 2003 I was seven years old and my parents bought two new games for the PlayStation 2. 
 SSX 3 for my step-brother, and Kingdom Hearts for me. I have fond memories of that time
