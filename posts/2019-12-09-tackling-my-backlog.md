@@ -9,8 +9,7 @@ data:
 The last month has been pretty unusual for me because I actually completed two video games!
 They weren't the two games I inteded to play, but I completed them none the less.
 
-<img src="/files/images/2019-12-09-Luigi's_Mansion_3.jpg" />
-
+## Luigi's Mansion 3
 I picked up Luigi's Mansion 3 on release date from our local GameStop. I was pleasantly
 surprised with how much fun it is, being the latest home console release of the series since the
 2001 original released on gamecube. I have dark moon on my 3ds but didn't really play much
@@ -21,8 +20,7 @@ about how to solve certain puzzles. Certain boss ghosts were a tough fight that 
 several attempts before you could finally defeat them. It's something that I find lacking
 in more modern games. The game does not just hand everything to you.
 
-<img src="/files/images/2019-12-09-gta-sa.jpg" />
-
+## Grand Theft Auto: San Andreas
 I'm pretty sure my parents got me Grand Theft Auto: San Andreas the year it came out (2004).
 My friends and I would play the hell out of that disk back then. Taking turns at the game
 just messing around. Trying to get the highest wanted level. Doing insane jumps with vehicles.

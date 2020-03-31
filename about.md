@@ -6,13 +6,13 @@ data:
 ---
 
 ### About Me
-I'm just a tech loving nerd. I've been working as a programmer making cloud based business management software since 2013. I'm interested in working on my own projects but never get anything done.
+I'm just a tech loving nerd.
 
 ### What software do I use?
 * OS: [Arch Linux](https://archlinux.org) on laptop. Windows 10 LTSC on Desktop.
 * WM: i3-gaps
 * Bar: polybar
-* Browser: [ungoogled-chromium](https://ungoogled-software.github.io)
+* Browser: Brave
 * Terminal: Alacritty 
 * Editor: [VSCodium](https://vscodium.com) and vim
 * Media Player: VLC/Plex 
@@ -28,5 +28,7 @@ I use an [EverDrive64](https://krikzz.com/store/) to play randomizer and rom hac
 You can follow me on [twitch.tv/sorokya](https://twitch.tv/sorokya) but I haven't streamed in a very long time, and don't plan to for now.
 
 These are the games I'm currently playing
-* 
+* Doom Eternal
+* Animal Crossing: New Horizons
+* [Endless Online](http://game.eoserv.net) 
 
