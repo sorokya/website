@@ -1,7 +1,0 @@
-
-site:
-  title: richardleek.com
-  description: Richard Leek's personal website
-  base_url: https://richardleek.com
-posts:
-  rss: rss.xml
