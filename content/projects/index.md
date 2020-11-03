@@ -12,7 +12,7 @@ The source code for this website!
 
 
 ## EOBot
-![eobot screenshot](./eobot.png)
+![eobot screenshot](./eobot-gui_XDxjoRguYp.png)
 
 A network bot for Endless Online. Just for fun.
 [https://git.sr.ht/~rleek/eobot](https://git.sr.ht/~rleek/eobot)
