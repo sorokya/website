@@ -1,4 +1,4 @@
-import type { MetaFunction } from 'remix';
+import type { LinksFunction, MetaFunction } from 'remix';
 import {
   Links,
   LiveReload,
@@ -8,8 +8,14 @@ import {
   ScrollRestoration,
 } from 'remix';
 
+import globalStylesUrl from '~/styles/global.css';
+
 export const meta: MetaFunction = () => {
   return { title: 'New Remix App' };
+};
+
+export const links: LinksFunction = () => {
+  return [{ rel: 'stylesheet', href: globalStylesUrl }];
 };
 
 export default function App() {
