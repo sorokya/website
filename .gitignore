@@ -1,2 +1,9 @@
-# Build output
-public
+node_modules
+
+/.cache
+/server/build
+/public/build
+.env
+app/styles
+.eslintcache
+yarn.error.log
